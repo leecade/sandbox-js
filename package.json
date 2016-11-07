@@ -16,7 +16,7 @@
     }
   ],
   "dependencies": {
-    "grunt": "~0.3.17",
-    "grunt-contrib-coffee": "~0.3.2"
+    "grunt": "~1.0.1",
+    "grunt-contrib-coffee": "~1.0.0"
   }
 }
